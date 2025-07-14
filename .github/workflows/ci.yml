@@ -22,5 +22,5 @@ jobs:
 
     - name: Build with Maven
       run: |
-        cd smart-city-app
+        cd smart-city-app/smart-city-app/backend
         mvn clean install
