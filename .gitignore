@@ -1,0 +1,16 @@
+# Java / Spring Boot
+target/
+*.log
+*.jar
+*.war
+*.class
+
+# Node / AngularJS (just in case)
+node_modules/
+dist/
+.env
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
